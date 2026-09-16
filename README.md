@@ -1,5 +1,7 @@
 # arena
 
+[![tests](https://github.com/Yeeeeezu/arena/actions/workflows/test.yml/badge.svg)](https://github.com/Yeeeeezu/arena/actions/workflows/test.yml)
+
 header-only arena allocator and fixed-size object pool for C++20. single file, no dependencies, no cmake required.
 
 ---
